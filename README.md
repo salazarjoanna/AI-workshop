@@ -2,8 +2,8 @@ This workshop contains two Node.js programs that recreate simplified versions of
 
 The two commands are:
 
-aiwsgrep.js — a simplified version of the Linux grep command
-aiwshead.js — a simplified version of the Linux head command
+aiwsgrep.js: a simplified version of the Linux grep command
+aiwshead.js:a simplified version of the Linux head command
 
 Both programs use Node.js to read a text file and display information from the file in the terminal.
 
